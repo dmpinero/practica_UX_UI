@@ -1,0 +1,30 @@
+Requerimientos de la plataforma Wordplease
+------------------------------------------
+Se desea implementar un portal para publicación de contenido que permita a todo tipo de usuarios publicar contenido sin necesidad
+de poseer conocimientos técnicos (más allá de los mínimos imprescindibles).
+
+Por ello Wordplease desea convertirse en la primera red de publicación de blogs que sea:
+
+	(Público objetivo) --> Accesible a todo tipo de usuarios, desde jóvenes nativos "techies" hasta personas mayores interesadas
+	                       en publicar sus memorias históricas.
+
+	(Requisitos a cumplir) --> Debe ser muy fácil de utilizar. En menos de 3 minutos un usuario que no posea una cuenta debe haber
+	                           sido capaz de registrarse y de poder publicar contenido. (Primario)
+
+	                           Debe poseer una estética simple y limpia, evitando contener un excesivo número de elementos que puedan
+	                           distrair al usuario. Además deberá ser visualmente atractiva, haciendo que el usuario quiera pasar
+	                           mucho tiempo escribiendo contenido o navegando por el site descubriendo historias que le interesen. (Primario)
+	                           
+	                           Debe permitir la categorización de los post que publique un usuario. De esta forma el usuario podrá
+	                           segmentar los contenidos y que otros usuarios que busquen información (post) relacionada con esa
+	                           misma temática sean capaces de encontrarlo. (Secundario)
+
+	                           Debe permitir "socializar los contenidos", incluyendo los habituales botones de "Me gusta" y "Compartir"
+	                           en redes sociales (Secundario)
+
+	                           Debe permitir buscar contenido para que los usuarios puedan saber qué otros usuarios comparten sus
+	                           mismas aficiones e inquietudes (Secundario)
+
+	                           Al ser una plataforma dirigida a todo tipo de público debe utilizar una gama de colores neutro, así como
+	                           permitir la configuración de distintos tamaños de fuentes (enfocado a un público senior que necesita 
+	                           fuentes de tamaño mayor) (Secundario)

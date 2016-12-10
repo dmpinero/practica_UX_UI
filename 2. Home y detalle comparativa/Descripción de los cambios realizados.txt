@@ -1,0 +1,17 @@
+Descripción de los cambios realizados
+-------------------------------------
+Pantalla Home
+	Reestructuración de la cabecera. Se incluyen únicamente 3 categorías. El texto "Más..." permitiría mostrar categorías adicionales.
+	En la primera parte de la pantalla se anima al usuario a que se registre en Wordplease y cree contenido en sólo 3 pasos.
+	Se ha puesto el foco en los botones "Login" y "Registro" para que el usuario acceda y pueda empezar a escribir sus historias cuanto antes.
+
+	A continuación se le muestran 3 artículos con los elementos habituales (título, descripción, fecha de publicación, etc.)
+	Al final se le muestran los botones "Previous post" y "Next post" para cambiar de página.
+
+	La página está mejor diseñada, respira mucho más y muestra una interfaz más ordenada, agradable y amigable.
+
+	La pantalla incluye 2 versiones: Home (cuando el usuario no está logado) y Home logado, en la que se eliminan los iconos de login y registro (puesto que el usuario ya está logado en la aplicación), sustituyéndolos por el icono de "Publicar post". También se eliminan los pasos que indican al usuario cómo realizar registro en Wordplease, puesto que el usuario ya está logado.
+
+Pantalla Detalle
+	Reestructuración completa de toda la pantalla.
+	Mejor disposición de contenidos. La pantalla es coherente, fácil de usar y se destacan las acciones que el usuario puede realizar.
